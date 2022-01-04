@@ -1,1 +1,1 @@
-consolle.log("Hello World");
+consolle.log("Hello Everyone");
